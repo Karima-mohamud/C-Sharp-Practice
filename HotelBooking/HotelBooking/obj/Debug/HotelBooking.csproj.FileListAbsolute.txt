@@ -1,0 +1,11 @@
+C:\Users\SMRC\source\repos\HotelBooking\HotelBooking\bin\Debug\HotelBooking.exe.config
+C:\Users\SMRC\source\repos\HotelBooking\HotelBooking\bin\Debug\HotelBooking.exe
+C:\Users\SMRC\source\repos\HotelBooking\HotelBooking\bin\Debug\HotelBooking.pdb
+C:\Users\SMRC\source\repos\HotelBooking\HotelBooking\obj\Debug\HotelBooking.csproj.AssemblyReference.cache
+C:\Users\SMRC\source\repos\HotelBooking\HotelBooking\obj\Debug\HotelBooking.Form1.resources
+C:\Users\SMRC\source\repos\HotelBooking\HotelBooking\obj\Debug\HotelBooking.Properties.Resources.resources
+C:\Users\SMRC\source\repos\HotelBooking\HotelBooking\obj\Debug\HotelBooking.csproj.GenerateResource.cache
+C:\Users\SMRC\source\repos\HotelBooking\HotelBooking\obj\Debug\HotelBooking.csproj.CoreCompileInputs.cache
+C:\Users\SMRC\source\repos\HotelBooking\HotelBooking\obj\Debug\HotelBooking.exe
+C:\Users\SMRC\source\repos\HotelBooking\HotelBooking\obj\Debug\HotelBooking.pdb
+C:\Users\SMRC\source\repos\HotelBooking\HotelBooking\obj\Debug\HotelBooking.exe.config
