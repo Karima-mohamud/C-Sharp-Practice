@@ -1,0 +1,11 @@
+C:\Users\SMRC\source\repos\Home_Assignment_Ca242\Home_Assignment_Ca242\bin\Debug\Home_Assignment_Ca242.exe.config
+C:\Users\SMRC\source\repos\Home_Assignment_Ca242\Home_Assignment_Ca242\bin\Debug\Home_Assignment_Ca242.exe
+C:\Users\SMRC\source\repos\Home_Assignment_Ca242\Home_Assignment_Ca242\bin\Debug\Home_Assignment_Ca242.pdb
+C:\Users\SMRC\source\repos\Home_Assignment_Ca242\Home_Assignment_Ca242\obj\Debug\Home_Assignment_Ca242.csproj.AssemblyReference.cache
+C:\Users\SMRC\source\repos\Home_Assignment_Ca242\Home_Assignment_Ca242\obj\Debug\Home_Assignment_Ca242.Form1.resources
+C:\Users\SMRC\source\repos\Home_Assignment_Ca242\Home_Assignment_Ca242\obj\Debug\Home_Assignment_Ca242.Properties.Resources.resources
+C:\Users\SMRC\source\repos\Home_Assignment_Ca242\Home_Assignment_Ca242\obj\Debug\Home_Assignment_Ca242.csproj.GenerateResource.cache
+C:\Users\SMRC\source\repos\Home_Assignment_Ca242\Home_Assignment_Ca242\obj\Debug\Home_Assignment_Ca242.csproj.CoreCompileInputs.cache
+C:\Users\SMRC\source\repos\Home_Assignment_Ca242\Home_Assignment_Ca242\obj\Debug\Home_Assignment_Ca242.exe
+C:\Users\SMRC\source\repos\Home_Assignment_Ca242\Home_Assignment_Ca242\obj\Debug\Home_Assignment_Ca242.pdb
+C:\Users\SMRC\source\repos\Home_Assignment_Ca242\Home_Assignment_Ca242\obj\Debug\Home_Assignment_Ca242.exe.config
