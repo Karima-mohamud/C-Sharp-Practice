@@ -1,0 +1,11 @@
+C:\Users\SMRC\source\repos\BMI Program\BMI Program\bin\Debug\BMI Program.exe.config
+C:\Users\SMRC\source\repos\BMI Program\BMI Program\bin\Debug\BMI Program.exe
+C:\Users\SMRC\source\repos\BMI Program\BMI Program\bin\Debug\BMI Program.pdb
+C:\Users\SMRC\source\repos\BMI Program\BMI Program\obj\Debug\BMI Program.csproj.AssemblyReference.cache
+C:\Users\SMRC\source\repos\BMI Program\BMI Program\obj\Debug\BMI_Program.Form1.resources
+C:\Users\SMRC\source\repos\BMI Program\BMI Program\obj\Debug\BMI_Program.Properties.Resources.resources
+C:\Users\SMRC\source\repos\BMI Program\BMI Program\obj\Debug\BMI Program.csproj.GenerateResource.cache
+C:\Users\SMRC\source\repos\BMI Program\BMI Program\obj\Debug\BMI Program.csproj.CoreCompileInputs.cache
+C:\Users\SMRC\source\repos\BMI Program\BMI Program\obj\Debug\BMI Program.exe
+C:\Users\SMRC\source\repos\BMI Program\BMI Program\obj\Debug\BMI Program.pdb
+C:\Users\SMRC\source\repos\BMI Program\BMI Program\obj\Debug\BMI Program.exe.config
