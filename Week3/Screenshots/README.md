@@ -17,6 +17,7 @@ if (double.TryParse(texttemp.Text, out temp))
     }
 }
 ```
+![My Screenshot](singleDecsion.png)
 
 ### 2. TryParse Method
 **Explanation:**
@@ -53,6 +54,8 @@ else
     MessageBox.Show("You are not a student");
 }
 ```
+![My Screenshot](if_else.png)
+
 
 ### 4. If-Else-If Statement and Logical Operators
 **Explanation:**
@@ -74,6 +77,7 @@ else
     MessageBox.Show("You are an adult");
 }
 ```
+![My Screenshot](if_elseif.png)
 
 ### 5. Nested Decision Structures
 **Explanation:**
@@ -98,6 +102,8 @@ else
     MessageBox.Show("Only Somali people can vote");
 }
 ```
+![My Screenshot](nested_if.png)
+
 
 ### 6. Adding Items to a ListBox
 **Explanation:**
@@ -108,6 +114,8 @@ I used `Items.Add()` to display the user's nationality and age inside the ListBo
 Result.Items.Add("Nationality: " + textnationality.Text);
 Result.Items.Add("Age: " + age);
 ```
+![My Screenshot](listbox.png)
+
 
 ### 7. Removing Items from a ListBox
 **Explanation:**
@@ -116,6 +124,7 @@ I used `Items.Remove()` to remove a specific item from the ListBox by its value.
 ```csharp
 Result.Items.Remove("Age: " + age);
 ```
+
 
 ### 8. RadioButtons
 
@@ -146,6 +155,7 @@ else
     approved = false;
 }
 ```
+![My Screenshot](RadioButton.png)
 
 ### 9. Switch Statement
 **Explanation:**
@@ -181,6 +191,7 @@ switch (roomType)
         break;
 }
 ```
+![My Screenshot](Switch.png)
 
 ### 10. CheckBox
 **Explanation:**
@@ -194,3 +205,4 @@ if (chkoption.Checked)
     breakfast = BREAKFAST_RATE * guests * nights;
 }
 ```
+![My Screenshot](CheckBox.png)
