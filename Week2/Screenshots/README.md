@@ -12,6 +12,9 @@ private void btntextboxshow_Click(object sender, EventArgs e)
     //display the message in label
     lbltext.Text=message;
 }
+```
+![My Screenshot](Textboxinput.png)
+
 
 ## Clearing TextBox and Label Controls
 In this example, the btnclear_Click event is used to clear the contents of both a TextBox and a Label when the button is clicked. The TextBox can be cleared using three methods: Clear(), setting Text to "", or setting Text to String.Empty. The Label can similarly be cleared by setting its Text property to "" or String.Empty.
@@ -34,6 +37,9 @@ private void btnclear_Click(object sender, EventArgs e)
     //lbltext.Text=String.Empty;
 
 }
+```
+![My Screenshot](cleartextboxandlabel.png)
+
 
 ## Declaring, Initializing, and Concatenating Variables
 In this example, different variables are declared and then initialized with values. Multiple variables of the same data type are declared in one statement. The FirstName and LastName variables are joined together using string concatenation with the + operator, and the resulting fullName is displayed in the lblinfo Label.
@@ -57,6 +63,9 @@ In this example, different variables are declared and then initialized with valu
      lblinfo.Text = fullName;
 
  }
+ ```
+ ![My Screenshot](Variables.png)
+
  ## Using a Local Variable
 In this example, a local variable named age is declared and initialized inside the button1_Click method. Because age is declared inside this method, it can only be accessed within this method. Its value is initialized to 7.
 ### code
@@ -66,6 +75,9 @@ In this example, a local variable named age is declared and initialized inside t
      // local variables
      int age = 7;
  }
+ ```
+  ![My Screenshot](localvariable.png)
+
 
  ## Using Numeric Data Types, Type Casting, and Calculations
 In this example, different numeric data types are used to store values such as age, height, and salary. The code also demonstrates type casting by converting the decimal salary to an int. Finally, it performs addition, subtraction, and integer division using two integer variables.
@@ -90,6 +102,9 @@ In this example, different numeric data types are used to store values such as a
      int division =num1 / num2;
 
  }
+ ```
+   ![My Screenshot](Numeric.png)
+
 
  ## Converting Between String and Integer
 In this example, the program converts the value entered in a TextBox from a string to an int using the int.Parse() method. After that, the integer value is converted back to a string using ToString() so it can be displayed in the Label.
@@ -105,6 +120,9 @@ In this example, the program converts the value entered in a TextBox from a stri
      lblinputoutput.Text= age.ToString();
 
  }
+ ```
+![My Screenshot](convertinput.png)
+
  ## Converting Input with Exception Handling
  n this example, exception handling is used to safely convert the TextBox input from a string to an int. The try block contains the code that may cause an error, such as int.Parse() when the user enters invalid input. If an error occurs, the catch block handles the exception and displays a message asking the user to enter a valid number.
  private void btninout_Click(object sender, EventArgs e)
@@ -125,6 +143,8 @@ In this example, the program converts the value entered in a TextBox from a stri
 
     }
 }
+![My Screenshot](trycatch.png)
+
 
 ## Using a Named Constant
 In this example, a named constant called PI is declared using the const keyword. Its value is set to 3.14 and cannot be changed while the program is running. The program then uses PI and the radius to calculate the area of a circle, and the result is displayed in the lblconstant Label.
@@ -142,3 +162,7 @@ In this example, a named constant called PI is declared using the const keyword.
         double area = PI *( radius* radius);
         lblconstant.Text = area.ToString();
     }
+
+```
+![My Screenshot](Constant.png)
+
