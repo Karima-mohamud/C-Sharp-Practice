@@ -1,0 +1,11 @@
+C:\Users\SMRC\source\repos\OpenAndSaveDialogAssignment\OpenAndSaveDialogAssignment\bin\Debug\OpenAndSaveDialogAssignment.exe.config
+C:\Users\SMRC\source\repos\OpenAndSaveDialogAssignment\OpenAndSaveDialogAssignment\bin\Debug\OpenAndSaveDialogAssignment.exe
+C:\Users\SMRC\source\repos\OpenAndSaveDialogAssignment\OpenAndSaveDialogAssignment\bin\Debug\OpenAndSaveDialogAssignment.pdb
+C:\Users\SMRC\source\repos\OpenAndSaveDialogAssignment\OpenAndSaveDialogAssignment\obj\Debug\OpenAndSaveDialogAssignment.csproj.AssemblyReference.cache
+C:\Users\SMRC\source\repos\OpenAndSaveDialogAssignment\OpenAndSaveDialogAssignment\obj\Debug\OpenAndSaveDialogAssignment.Form1.resources
+C:\Users\SMRC\source\repos\OpenAndSaveDialogAssignment\OpenAndSaveDialogAssignment\obj\Debug\OpenAndSaveDialogAssignment.Properties.Resources.resources
+C:\Users\SMRC\source\repos\OpenAndSaveDialogAssignment\OpenAndSaveDialogAssignment\obj\Debug\OpenAndSaveDialogAssignment.csproj.GenerateResource.cache
+C:\Users\SMRC\source\repos\OpenAndSaveDialogAssignment\OpenAndSaveDialogAssignment\obj\Debug\OpenAndSaveDialogAssignment.csproj.CoreCompileInputs.cache
+C:\Users\SMRC\source\repos\OpenAndSaveDialogAssignment\OpenAndSaveDialogAssignment\obj\Debug\OpenAndSaveDialogAssignment.exe
+C:\Users\SMRC\source\repos\OpenAndSaveDialogAssignment\OpenAndSaveDialogAssignment\obj\Debug\OpenAndSaveDialogAssignment.pdb
+C:\Users\SMRC\source\repos\OpenAndSaveDialogAssignment\OpenAndSaveDialogAssignment\obj\Debug\OpenAndSaveDialogAssignment.exe.config
