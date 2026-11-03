@@ -28,12 +28,15 @@ namespace OpenAndSaveDialogAssignment
             //openfilebutton
             DialogResult result;
             result = openFileDialog.ShowDialog();
+            //validating
             if (result == DialogResult.OK)
             {
                 //import class
                 StreamReader read;
+                //opening the file
                 read= File.OpenText(openFileDialog.FileName);
                 String line;
+                //reading
                 while(read.EndOfStream == false)
                 {
                     line = read.ReadLine();
@@ -57,6 +60,7 @@ namespace OpenAndSaveDialogAssignment
             result = saveFileDialog.ShowDialog();
             if (result == DialogResult.OK)
             {
+                //appending 
                 writer = File.AppendText(saveFileDialog.FileName);
                 writer.WriteLine(textinfo.Text);
                 //closing file
